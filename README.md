@@ -11,7 +11,7 @@ Execute the script with a single argument in the format 'YYYYMMDD'.
 Example: `python date_calculator.py 20230101`
 
 **Output:**  
-Displays the number of days from the given date to the current date.
+Displays the number of days from the given date to today's date.
 
 ---
 
@@ -39,7 +39,7 @@ Run the script with a single integer argument representing the number of days in
 Example: `python date_span.py 100`
 
 **Output:**  
-Displays a date that is the specified number of days ago from the current date.
+Displays a date that is the specified number of days ago from today's date.
 
 ---
 
