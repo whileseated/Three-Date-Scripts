@@ -32,7 +32,7 @@ Displays five dates, each corresponding to a different past interval (500, 1000,
 ## 3. **date_span.py**
 
 **Description:**  
-This script calculates and displays a date that is a specified number of days ago from today.
+This script calculates and displays a date that is a specified number of days from today.
 
 **Usage:**  
 Run the script with a single integer argument representing the number of days in the past.  
